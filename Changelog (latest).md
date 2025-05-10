@@ -1,12 +1,12 @@
- Version 3.3
+ Version 3.5
  
 
-- Fixed an issue with Aeros Updater lite (could not be downloaded)
+- Aeros Updater updated to Vers. 2.5
   
 
 - All Apps have been updated
   
 
-- Pc Health Check app has been added
+- Add Aeros Bootlogo with Hackbgrt Vers. 2.5.2
 
 ​
