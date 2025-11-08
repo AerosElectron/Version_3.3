@@ -1,7 +1,7 @@
- Version 3.5
+ Version 3.6.3
  
 
-- Aeros Updater updated to Vers. 3.0
+- Aeros Updater updated to Vers. 3.1
 
 - Aeros Player updated to Vers. 2.8
   
