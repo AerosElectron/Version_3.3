@@ -1,14 +1,10 @@
  Version 3.6.3
  
 
-- Aeros Updater updated to Vers. 3.1
+- Aeros Updater updated to Vers. 3.2
 
-- Aeros Player updated to Vers. 2.8
-  
+- Ghost Theme updated to Vers. 1.5
 
-- All Apps have been updated
-  
-
-- Aeros Bootlogo with Hackbgrt stable Vers. 2.5.2
+- All Windows Apps updated
 
 ​
