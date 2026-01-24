@@ -1,10 +1,7 @@
- Version 4.3
+ Version 4.3.1
  
 
-- Aeros Updater updated to Vers. 3.2
+- Aeros Updater updated to Vers. 3.2.1
 
-- Ghost Theme updated to Vers. 1.5
-
-- All Windows Apps updated
 
 ​
